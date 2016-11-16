@@ -1,3 +1,3 @@
-# Reverse Linked List
+# Reverse Linked List II
 
-链表反转
+链表进行局部反转，在链表反转的基础上进行改进，将需要反转局部视作一个链表b，获取到b的前一个节点与后一个节点，以便拼接到原序列。
